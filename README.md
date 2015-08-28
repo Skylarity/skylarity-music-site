@@ -1,2 +1,2 @@
-# skylarity
+# Skylarity
 Personal Website Project
