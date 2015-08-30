@@ -1,9 +1,130 @@
+* {
+	color: #508CFF;
+	font-family: 'Roboto', sans-serif;
+}
+
+/******************************
+ * Header
+ ******************************/
+
 .header {
-	padding: 20px 0;
-	color: #337ab7;
+	padding: 10px 0;
 }
 
 .logo {
 	margin: 0;
 	padding: 0;
+
+	font-weight: 300;
+}
+
+.logo-robot {
+	width: 40px;
+	height: auto;
+
+	display: inline-block;
+}
+
+.header-nav > li > a {
+	color: #508CFF;
+}
+
+.header-nav > li > a:hover,
+.header-nav > li > a:active,
+.navbar > .nav > li > .active > a {
+	color: #FFFFFF;
+	background-color: #508CFF;
+}
+
+/******************************
+ * Call to Action
+ ******************************/
+
+.call-to-action-bg {
+	background-color: #508CFF;
+}
+
+.call-to-action {
+	padding: 100px 0;
+	text-align: center;
+}
+
+.call-to-action > h1 {
+	color: #FFFFFF;
+	font-family: 'Comfortaa', cursive;
+	font-size: 6em;
+}
+
+.call-to-action > h1 > small {
+	color: #FFFFFF;
+	font-family: 'Comfortaa', cursive;
+}
+
+/******************************
+ * Content
+ ******************************/
+
+.content {
+	padding: 20px 0;
+	font-size: 1.1em;
+}
+
+.content-h2 {
+	font-weight: 300;
+}
+
+.content-img {
+	width: auto;
+	height: 150px;
+}
+
+/******************************
+ * Contact
+ ******************************/
+
+.contact {
+	display: inline-block;
+}
+
+.social-media {
+	padding: 0 5px;
+	font-size: 1.75em;
+	border-radius: 4px;
+}
+
+.social-media:hover {
+	color: #FFFFFF;
+	background-color: #508CFF;
+}
+
+/******************************
+ * Footer
+ ******************************/
+
+footer {
+	padding: 10px 0;
+}
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html {
+	display: flex;
+}
+
+body {
+	width: 100%;
+}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
 }
