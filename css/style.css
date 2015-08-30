@@ -79,6 +79,25 @@
 }
 
 /******************************
+ * Music
+ ******************************/
+
+.music-h1-bg {
+	padding: 50px 0;
+	background-color: #508CFF;
+}
+
+.music-h1 {
+	color: #FFFFFF;
+	font-family: 'Comfortaa', cursive;
+	font-size: 6em;
+}
+
+.music {
+
+}
+
+/******************************
  * Contact
  ******************************/
 
