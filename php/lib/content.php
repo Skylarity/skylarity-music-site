@@ -1,6 +1,6 @@
 <div class="content">
     <div class="container">
-        <div class="row">
+        <div class="row animated fadeInLeft">
             <div class="col-md-4">
                 <h2 class="content-h2">
                     <a href="<?php echo $PREFIX; ?>music">Check out my music</a>
@@ -16,7 +16,7 @@
             </div>
         </div>
         <div class="spacing"></div>
-        <div class="row">
+        <div class="row animated fadeInRight">
             <div class="col-md-4">
                 <a class="thumbnail" href="<?php echo $PREFIX; ?>websites">
                     <img class="content-block" src="<?php echo $PREFIX; ?>images/robot-blue.png"/>

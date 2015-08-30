@@ -27,6 +27,9 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
         <!-- Custom CSS -->
         <link type="text/css" href="<?php echo $PREFIX; ?>css/style.css" rel="stylesheet"/>
 
+        <!-- Animate.css -->
+        <link type="text/css" href="<?php echo $PREFIX; ?>css/animate.css" rel="stylesheet"/>
+
         <!-- Google Fonts -->
         <link
             href='https://fonts.googleapis.com/css?family=Comfortaa:300|Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,900,700italic,900italic'

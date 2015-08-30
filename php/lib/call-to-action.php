@@ -1,12 +1,14 @@
-<div class="call-to-action-bg">
+<div class="call-to-action-bg animated fadeIn">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="call-to-action">
                     <h1>
-                        <small>Media</small>
+                        Hi, I'm Skyler.
                         <br/>
-                        Done Well
+                        <small>Musician, Producer, Web Developer.</small>
+                        <br/>
+                        <small>Go ahead, take a scroll.</small>
                     </h1>
                 </div>
             </div>
