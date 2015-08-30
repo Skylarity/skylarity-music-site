@@ -4,12 +4,17 @@
             <div class="row">
                 <div class="col-md-12">
                     <div>
-                        <h1 class="music-h1">Soundcloud:</h1>
+                        <!--<h1 class="music-h1">Soundcloud:</h1>-->
+                        <a href="https://soundcloud.com/skylarity" target="_blank">
+                            <img class="img-responsive center-block"
+                                 src="<?php echo $PREFIX ?>images/robot-white-banner.png"/>
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <div class="spacing"></div>
     <div class="container">
         <div class="row">
             <div class="col-md-12">

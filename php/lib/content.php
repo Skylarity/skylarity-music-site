@@ -2,7 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <h2 class="content-h2">Check out my music</h2>
+                <h2 class="content-h2">
+                    <a href="<?php echo $PREFIX; ?>music">Check out my music</a>
+                </h2>
 
                 <p>
                     This is a small explanation about my music.
@@ -13,13 +15,23 @@
                         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/8186758&amp;color=508cff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
             </div>
         </div>
+        <div class="spacing"></div>
         <div class="row">
-            <div class="col-md-8">
-                GALLERY GOES HERE
+            <div class="col-md-4">
+                <a class="thumbnail" href="<?php echo $PREFIX; ?>websites">
+                    <img class="content-block" src="<?php echo $PREFIX; ?>images/robot-blue.png"/>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a class="thumbnail" href="<?php echo $PREFIX; ?>websites">
+                    <img class="content-block" src="<?php echo $PREFIX; ?>images/robot-blue.png"/>
+                </a>
             </div>
             <div class="col-md-4">
                 <div class="pull-right">
-                    <h2 class="content-h2">Check out some websites I've done</h2>
+                    <h2 class="content-h2">
+                        <a href="<?php echo $PREFIX; ?>websites">Check out some websites I've done</a>
+                    </h2>
 
                     <p>
                         This is an explanation about websites I've made.
