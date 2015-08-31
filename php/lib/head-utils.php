@@ -24,11 +24,11 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"
 			  rel="stylesheet"/>
 
-		<!-- Swipebox CSS -->
-		<link type="text/css" href="<?php echo $PREFIX; ?>css/swipebox.min.css" rel="stylesheet"/>
-
 		<!-- Custom CSS -->
 		<link type="text/css" href="<?php echo $PREFIX; ?>css/style.css" rel="stylesheet"/>
+
+		<!-- Swipebox CSS -->
+		<link type="text/css" href="<?php echo $PREFIX; ?>css/swipebox.min.css" rel="stylesheet"/>
 
 		<!-- Animate.css -->
 		<link type="text/css" href="<?php echo $PREFIX; ?>css/animate.css" rel="stylesheet"/>

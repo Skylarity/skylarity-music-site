@@ -4,40 +4,43 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h1 class="websites-h1">
-						Nothing to see here...
-						<br/>
-						<small>(Eventually you will see websites)</small>
+						Take a look at the websites I've made.
 					</h1>
 				</div>
 			</div>
 		</div>
 	</div>
+	<div class="spacing"></div>
 	<div class="container">
 		<div class="row">
-			<div class="col-md-3 col-md-offset-3">
-				<a class="box" href="<?php echo $PREFIX; ?>images/big/robot-blue.png" class="swipebox"
+			<div class="col-md-3 col-md-offset-2">
+				<a href="<?php echo $PREFIX; ?>images/big/robot-blue.png" class="swipebox thumbnail"
 				   title="My Caption">
-					<img src="<?php echo $PREFIX; ?>images/robot-blue.png" alt="image">
+					<img class="img-responsive center-block box" src="<?php echo $PREFIX; ?>images/robot-blue.png"
+						 alt="image">
 				</a>
 			</div>
-			<div class="col-md-3 col-md-offset-3">
-				<a class="box" href="<?php echo $PREFIX; ?>images/big/robot-blue.png" class="swipebox"
+			<div class="col-md-3 col-md-offset-2">
+				<a href="<?php echo $PREFIX; ?>images/big/robot-blue.png" class="swipebox thumbnail"
 				   title="My Caption">
-					<img src="<?php echo $PREFIX; ?>images/robot-blue.png" alt="image">
+					<img class="img-responsive center-block box" src="<?php echo $PREFIX; ?>images/robot-blue.png"
+						 alt="image">
 				</a>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-3 col-md-offset-3">
-				<a class="box" href="<?php echo $PREFIX; ?>images/big/robot-blue.png" class="swipebox"
+			<div class="col-md-3 col-md-offset-2">
+				<a href="<?php echo $PREFIX; ?>images/big/robot-blue.png" class="swipebox thumbnail"
 				   title="My Caption">
-					<img src="<?php echo $PREFIX; ?>images/robot-blue.png" alt="image">
+					<img class="img-responsive center-block box" src="<?php echo $PREFIX; ?>images/robot-blue.png"
+						 alt="image">
 				</a>
 			</div>
-			<div class="col-md-3 col-md-offset-3">
-				<a class="box" href="<?php echo $PREFIX; ?>images/big/robot-blue.png" class="swipebox"
+			<div class="col-md-3 col-md-offset-2">
+				<a href="<?php echo $PREFIX; ?>images/big/robot-blue.png" class="swipebox thumbnail"
 				   title="My Caption">
-					<img src="<?php echo $PREFIX; ?>images/robot-blue.png" alt="image">
+					<img class="img-responsive center-block box" src="<?php echo $PREFIX; ?>images/robot-blue.png"
+						 alt="image">
 				</a>
 			</div>
 		</div>
