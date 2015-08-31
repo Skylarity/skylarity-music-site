@@ -1,7 +1,12 @@
-* {
-	color: #508CFF;
+html, body {
+	color: #508CFF !important;
 	font-family: 'Roboto', sans-serif;
 }
+
+/** {
+	color: #508CFF;
+	font-family: 'Roboto', sans-serif;
+}*/
 
 .spacing {
 	margin-top: 20px;
@@ -22,7 +27,7 @@ a:hover {
 
 .logo {
 	margin: 0;
-	padding: 0;
+	padding: 3px 0 0 0;
 
 	font-weight: 300;
 }
@@ -149,11 +154,15 @@ a:hover {
 	padding: 5px;
 	font-size: 1.75em;
 	border-radius: 4px;
+
+	text-decoration: none;
 }
 
-.social-media:hover {
+a.social-media:hover {
 	color: #FFFFFF;
 	background-color: #508CFF;
+
+	text-decoration: none;
 }
 
 /******************************
