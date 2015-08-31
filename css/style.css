@@ -115,6 +115,27 @@ a:hover {
 	border-color: #508CFF;
 }
 
+.websites {
+
+}
+
+.websites-bg {
+	padding: 50px 0;
+	background-color: #508CFF;
+}
+
+.websites-h1 {
+	color: #FFFFFF;
+	font-family: 'Comfortaa', cursive;
+	font-size: 6em;
+	text-align: center;
+}
+
+.websites-h1 > small {
+	color: #FFFFFF;
+	font-family: 'Comfortaa', cursive;
+}
+
 /******************************
  * Contact
  ******************************/
