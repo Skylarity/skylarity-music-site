@@ -6,7 +6,7 @@
                     <h1>
                         Hi, I'm Skyler.
                         <br/>
-                        <small>Musician, Producer, Web Developer.</small>
+                        <small>Musician, web developer.</small>
                         <br/>
                         <small>Go ahead, take a scroll.</small>
                     </h1>

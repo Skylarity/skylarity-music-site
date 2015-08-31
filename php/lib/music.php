@@ -1,5 +1,5 @@
 <div class="music">
-    <div class="music-h1-bg">
+    <div class="music-h1-bg animated fadeIn">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -15,7 +15,7 @@
         </div>
     </div>
     <div class="spacing"></div>
-    <div class="container">
+    <div class="container animated fadeInUp">
         <div class="row">
             <div class="col-md-12">
                 <iframe width="100%" height="450" scrolling="no" frameborder="no"

@@ -3276,6 +3276,6 @@ Copyright (c) 2015 Daniel Eden
  ******************************/
 
 * {
-	-webkit-animation-delay: 0.5s; /* Chrome, Safari, Opera */
-	animation-delay: 0.5s;
+	-webkit-animation-delay: 0.25s; /* Chrome, Safari, Opera */
+	animation-delay: 0.25s;
 }
