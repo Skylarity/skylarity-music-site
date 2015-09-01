@@ -32,15 +32,16 @@ a:focus {
 
 .logo {
 	margin: 0;
-	padding: 3px 0 0 0;
+	padding: 12px 0 0 0;
 
 	font-weight: 300;
-	font-size: 0.7em;
+	font-size: 1.10em;
 }
 
 @media only screen and (min-width: 968px) {
 	.logo {
-		font-size: 1em;
+		padding: 3px 0 0 0;
+		font-size: 30px;
 	}
 }
 
@@ -207,6 +208,7 @@ a.social-media:focus {
 
 footer {
 	padding: 10px 0;
+	font-weight: 300;
 }
 
 /***
