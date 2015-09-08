@@ -193,6 +193,35 @@ a.social-media:focus {
 	text-decoration: none;
 }
 
+.contact-button {
+	color: #508CFF;
+	background-color: #FFFFFF;
+	border: solid 1px #508CFF;
+}
+
+.contact-button:hover {
+	color: #FFFFFF;
+	background-color: #508CFF;
+	border: solid 1px #508CFF;
+}
+
+.form-control {
+	border: solid 1px #508CFF;
+	box-shadow: none;
+	color: #508CFF;
+	background-color: #FFFFFF;
+
+	transition: color 0.42s, background-color 0.42s;
+}
+
+.form-control:focus,
+.form-control:active {
+	box-shadow: none;
+	color: #FFFFFF;
+	background-color: #508CFF;
+	border: solid 1px #508CFF;
+}
+
 /******************************
  * Swipebox
  ******************************/
