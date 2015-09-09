@@ -168,6 +168,10 @@ a:focus {
 	}
 }
 
+.websites-img {
+	height: 500px;
+}
+
 /******************************
  * Contact
  ******************************/
@@ -227,7 +231,7 @@ a.social-media:focus {
  ******************************/
 
 .box {
-	width: 200px;
+	width: 100%;
 	height: auto;
 }
 

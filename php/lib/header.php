@@ -17,6 +17,9 @@
 					<li role="presentation">
 						<a href="<?php echo $PREFIX; ?>websites">Websites</a>
 					</li>
+					<li role="presentation">
+						<a href="<?php echo $PREFIX; ?>contact">Contact</a>
+					</li>
 				</nav>
 			</div>
 		</div>

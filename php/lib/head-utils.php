@@ -28,7 +28,7 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 		<link type="text/css" href="<?php echo $PREFIX; ?>css/style.css" rel="stylesheet"/>
 
 		<!-- Swipebox CSS -->
-		<link type="text/css" href="<?php echo $PREFIX; ?>css/swipebox.min.css" rel="stylesheet"/>
+		<link type="text/css" href="<?php echo $PREFIX; ?>css/swipebox.css" rel="stylesheet"/>
 
 		<!-- Animate.css -->
 		<link type="text/css" href="<?php echo $PREFIX; ?>css/animate.css" rel="stylesheet"/>
