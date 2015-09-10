@@ -14,7 +14,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<a href="<?php echo $PREFIX; ?>images/big/punctuality-big.png" class="swipebox thumbnail"
+				<a href="http://punctualityapp.com/" target="_blank" class="thumbnail"
 				   title="Punctuality - Map your time.">
 					<img class="img-responsive center-block box"
 						 src="<?php echo $PREFIX; ?>images/thumbs/punctuality-md.png"
@@ -22,7 +22,8 @@
 				</a>
 			</div>
 			<div class="col-md-6">
-				<a href="<?php echo $PREFIX; ?>images/big/trufork-big.png" class="swipebox thumbnail"
+				<a href="https://bootcamp-coders.cnm.edu/~srexroad/trufork/public_html/" target="_blank"
+				   class="thumbnail"
 				   title="TruFork - Find a delicious, clean place to eat.">
 					<img class="img-responsive center-block box"
 						 src="<?php echo $PREFIX; ?>images/thumbs/trufork-md.png"
