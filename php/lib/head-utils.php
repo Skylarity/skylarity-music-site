@@ -63,6 +63,9 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 		<!-- Swipebox JS -->
 		<script type="text/javascript" src="<?php echo $PREFIX; ?>js/jquery.swipebox.min.js"></script>
 
+		<!-- Mobile-friendly-ifying -->
+		<script type="text/javascript" src="<?php echo $PREFIX; ?>js/move-website-text.js"></script>
+
 		<!-- Custom JS -->
 		<script type="text/javascript" src="<?php echo $PREFIX; ?>js/fire-swipebox.js"></script>
 

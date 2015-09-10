@@ -1,7 +1,8 @@
 $(document).ready(function() {
-	;( function( $ ) {
+	;
+	(function($) {
 
-		$( '.swipebox' ).swipebox();
+		$('.swipebox').swipebox();
 
-	} )( jQuery );
+	})(jQuery);
 });
