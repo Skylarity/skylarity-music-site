@@ -11,7 +11,7 @@ $PAGE_TITLE = "Skylarity";
 					<h2 class="typewriter-text">Who?</h2>
 					<p>
 						Skylarity is a producer from New Mexico. He started out making chiptune music in PXTone, and graduated
-						to FL Studio when he realized his love for all kinds of bass music.
+						to FL Studio when he realized his love for bass music.
 					</p>
 				</div>
 				<div class="col-md-6">
