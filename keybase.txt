@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/skylarity
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://skylarity.com
+  * I am skylarity (https://keybase.io/skylarity) on keybase.
+  * I have a public key with fingerprint FF20 04C4 6AC0 C236 E26A  2A43 3671 6576 E7EA 2B95
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012fd071a69d9da3ed6d49be9e0baf7da09ae42dccecf291d4990a53048a06cc880a",
+            "fingerprint": "ff2004c46ac0c236e26a2a4336716576e7ea2b95",
+            "host": "keybase.io",
+            "key_id": "36716576e7ea2b95",
+            "kid": "01012fd071a69d9da3ed6d49be9e0baf7da09ae42dccecf291d4990a53048a06cc880a",
+            "uid": "2990d48f47e272939f92d7c7343ce219",
+            "username": "skylarity"
+        },
+        "service": {
+            "hostname": "skylarity.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1447214570,
+    "expire_in": 157680000,
+    "prev": "86026318e78b68fc425e0eccd453e5cf1af29ee111f7041c57b5026d17bd0d4b",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMM6AnicrVJrUFRlGF5uEWtUiw0Xy5Iz3QZwPffLpjnEaHbdsRAsjJ1z+Q6c2Auc
+PVwXChSQDacpIBCkGBYSSZtpBLswoYMhUFIyKJCAoOgMSt6pyMGYvsPUn6affX++
++d73eZ7veZ95e0MDDEY/OgvkzM7FfuR3sqc+25D0XPecBxFcUj5i8SAZYPkCdgm4
+NVuGIiEWBMVQDJcllMF4mpM4iSeAREskJwAOoAIvMxKPcjwgcUkUgSjjHAabHMpT
+BEqyPEqLIsuiPBKHyIozDaiZquLUoKws4yhKiiTNi6iIEzTAaR7nSYKgGYymGBow
+gMcFjoLEdJdbZ0BzAu8GZsUFa/BhW7b3H/j/2Xf2shwOexLJyiQDcAbnCE7mcIkR
+GYIkRIBjnA50A9XJOwBEuzPy7byqaPlIURwCyzmKCPRk9VH+DTGLLgdkZ6ouzSW6
+7LCVrmmZFp2p5Wfq0Fwg2P4WsQmKU4JBQkIOUN2Ky4lYMIgUNUVXxUiSwTGSYtA4
+BORlKiqwKToCBsSi8OjfgBwoydIoThMYCxhWoFlZJHEKoEAUJZIiACXKGA8TAQDD
+MJlBSUykGIGCDAljBAnmICD6WFlOF9TGoE8+TZ9ISXPyWrYKkKLjPTsCDX5Gwz1B
+/vqGGYwhD/6zd/X+D/wZvv5gXa9UdMf3/l5vBXJeLbxXGlGyFptKp/odPxedtbYN
+lp5gxwLbh9YOjBSbArcUshMruoOVib6E66/+HpC8+tOM6sah0Lyw2dxaS/s5v4TK
+qw0+e9KaHRfw1TsjmgeCRnN3LSZGNR1MSX4rrK9soLnJsW10KTv24oHB8dvW+Y1b
+z9RFPDrcHnzNUetr96xLSX77p2MtttyZ0+ZNCy9bv3VsTJvfMyLWfJ1wRov63NXx
+Y/EXG/abIgcKa1jLYZ+n/PJR76pHpieH49aVDV4YU42eVb+RzXfbnk0wl1veabm0
+v+tKh1oav/th7xh19PKtVFMlvjBXXXCkKq4z8pXHGvrlPDmd2Hfy9ve/XjTzxsrp
+xWD7YJQ9J7Qzvzj2wKnxtdM3P6vK/uTDeBrZuf2EI4ze9tJAV8j6iC+rbiX23/B/
+s/z0N3uy7I2Xxj8OyVghb0nLTfnl0LUgc6y8uMseH/2CRJHcM84CP4PD9N2RSGXz
+1ZXdC0rMk0vBbT9MHJp6vIKt6Z3Zyh97uud4+tn6pO5ZgG1+98rN4Q2nFiZNll5t
+u6OxLKg6JNU6OLb7jSV1pvXcyg/ee2KqpCQ+OLG1oiE6Rh7qmimreqj2+cPR+zpu
+VHSu6fPOzwS8eL3ACspKAoZS+l5jkDoTktoac/9T4V+lEns9r5e23P0jvKTf6vPe
+d74l8s7I6ORf9XDIEQ==
+=HAbB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skylarity
+
+==================================================================

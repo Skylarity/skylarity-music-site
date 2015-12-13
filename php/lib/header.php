@@ -1,27 +1,30 @@
-<header class="header">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-6">
-				<a href="<?php echo $PREFIX; ?>index.php">
-					<img class="img-responsive logo-robot pull-left" src="<?php echo $PREFIX; ?>images/robot-blue.png"
-						 alt="Robot Logo"/>
-
-					<h2 class="logo">SKYLER REXROAD</h2>
+<header>
+	<nav class="navbar">
+		<div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<a class="navbar-brand nav-logo" href="<?php echo $PREFIX; ?>index.php">
+					<img class="img-responsive logo" alt="Brand"
+						  src="<?php echo $PREFIX; ?>images/robot-white.png">
+				</a>
+				<a class="navbar-brand" href="<?php echo $PREFIX; ?>index.php">
+					<span class="text-uppercase dotted-text">Skylarity</span>
 				</a>
 			</div>
-			<div class="col-xs-6">
-				<nav class="nav nav-pills pull-right header-nav">
-					<li role="presentation">
-						<a href="<?php echo $PREFIX; ?>music">Music</a>
-					</li>
-					<li role="presentation">
-						<a href="<?php echo $PREFIX; ?>websites">Websites</a>
-					</li>
-					<li role="presentation">
-						<a href="<?php echo $PREFIX; ?>contact">Contact</a>
-					</li>
-				</nav>
-			</div>
-		</div>
-	</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<ul class="nav navbar-nav navbar-right list-inline">
+				<li>
+					<a href="https://soundcloud.com/skylarity" target="_blank">
+						<i class="fa fa-soundcloud"></i>
+					</a>
+				</li>
+				<li>
+					<a href="https://www.facebook.com/Skylarity/" target="_blank">
+						<i class="fa fa-facebook"></i>
+					</a>
+				</li>
+			</ul>
+		</div><!-- /.container-fluid -->
+	</nav>
 </header>
